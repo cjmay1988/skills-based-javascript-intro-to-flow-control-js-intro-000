@@ -1,12 +1,19 @@
-function basicTeenager(age) {
+function basicTeenager(age) 
+ basicTeenager (13 - 19)
 
-}
+   
+   
+ } 
+  
+  
 
-function teenager(age) {
+  
 
-}
+function teenager(age)
+
 
 function ageChecker(age) {
+  
 
 }
 
